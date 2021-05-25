@@ -24,4 +24,4 @@ process to make code changes on our computer and push them up to github
 |git commit -m "DESCRIPTION"|commits the change, the -m is for the message and in the quotes is your description of the change|
 |git push origin main|pushes the changes to github|
 |touch FILE NAME|adds a new file|
-|git help COMMAND|
+|git help COMMAND|if you need help with a specific command|
