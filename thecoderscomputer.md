@@ -1,5 +1,9 @@
 # The Coder's Computer
 
+[Home](readme.md)
+
+---
+
 ## Text Editor Notes
 
 There are many types of text editors, and they all are fairly similar, but they can have their own features.  A text editors is a key tool for web developers. 
