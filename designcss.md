@@ -1,5 +1,5 @@
 # Design Web pages with CSS
 
-[Home](README.md)
+[Home](https://justinhamerly.github.io/reading-notes/)
 
 ---

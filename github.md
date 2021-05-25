@@ -1,6 +1,6 @@
 # Revisions and the Cloud
 
-[Home](README.md)
+[Home](https://justinhamerly.github.io/reading-notes/)
 
 ---
 
