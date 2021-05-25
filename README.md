@@ -21,5 +21,5 @@ Having a Growth mindset is about believeing in developing new skills and being o
 #### This is a Heading 4
 ###### This is a Heading 6
 
-[Learning Markdown - Class 1](learningmarkdownnotes.md)
-[The Coder's Computer - Class 2](thecoderscomputer.md)
+- [Learning Markdown - Class 1](learningmarkdownnotes.md)
+- [The Coder's Computer - Class 2](thecoderscomputer.md)
