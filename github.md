@@ -1,6 +1,6 @@
 # Revisions and the Cloud
 
-[Home](readme.md)
+[Home](README.md)
 
 ---
 

@@ -1,6 +1,7 @@
 # Reading Notes for CodeFellows
 
 This is my page for all of my CodeFellows notes.
+
 ---
 
 |CLASS #|LINK

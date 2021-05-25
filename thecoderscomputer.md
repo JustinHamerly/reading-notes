@@ -1,6 +1,6 @@
 # The Coder's Computer
 
-[Home](readme.md)
+[Home](README.md)
 
 ---
 
