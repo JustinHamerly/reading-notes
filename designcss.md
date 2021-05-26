@@ -17,6 +17,7 @@
 - CSS uses rules to change elements like color, or size or layout.  
 - some browsers are compatible wihth some parts of CSS, where some browsers won't be compatible.  
 - Browser compatibility is something to consider when changing elements in your CSS.
+- a block level element takes up as much space as possible, whereas an inline element takes up just the space it needs.
 
 |CSS CODE PART|DESCRIPTION
 |:---|:---
