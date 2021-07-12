@@ -42,7 +42,7 @@ This is my page for all of my CodeFellows notes.
 
 My name is Justin.  I am changing careers from architecture to coding and software development.  I also have my own soap business that I run on the side, where I make and sell bar soap.  I am interested in developing new skills, because I believe in having a growth mindset.
 
-![Kayaking Photo](https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/121549527_10217143952062726_2814038383146855609_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=174925&_nc_ohc=Ne8nmxiusyIAX-M9ZjS&_nc_oc=AQledNBTBrwSq0A1dyqREmHbyEkmnYsGUvZM05VnGI-Tad58ILC8amBlDcvlJ6VCSCM&_nc_ht=scontent-sea1-1.xx&oh=1847f38f1b9e901a109eed8d113f642d&oe=60D248AE)
+![Kayaking Photo](https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/121549527_10217143952062726_2814038383146855609_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=174925&_nc_ohc=dBlUCaM3B-kAX_7FUNu&_nc_oc=AQnhnMYBlvUQviH8X71n2cGDT1uI3nLdvKmO1bELGAT2ilT0WbdcqKLGdgWmSSnOxI4&_nc_ht=scontent-sea1-1.xx&oh=2e1b333d598fbbf3d46254770364bfa8&oe=60F1ECAE)
 #### Here is a photo of me kayaking in the Puget Sound
 
 ---
