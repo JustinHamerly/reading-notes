@@ -15,6 +15,7 @@ This is my page for all of my CodeFellows notes.
 |Class 6|[Activate Web Pages with Javascript](activatejava.md)
 |Class 7|[Programming with Javascript](programmingjava.md)
 |Class 8|[Operators and Loops](operatorsloops.md)
+
 ---
 
 ## Code 201 Reading Notes
