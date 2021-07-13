@@ -23,7 +23,7 @@ This is my page for all of my CodeFellows notes.
 
 |CLASS #|LINK|
 |:---|:---|
-|Class 1|[notes 1](201-class-01.md)|
+|Class 1|[HTML/JS General Notes](201-class-01.md)|
 |Class 2|[notes 2](notes2.md)|
 |Class 3|[notes 3](notes3.md)|
 |Class 4|[notes 4](notes4.md)|
