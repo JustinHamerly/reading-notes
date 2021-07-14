@@ -25,7 +25,7 @@ This is my page for all of my CodeFellows notes.
 |:---|:---|
 |Class 1|[HTML/JS General Notes](201-class-01.md)|
 |Class 2|[Text, CSS, basic JavaScript, Decisions & Loops](201-class-02.md)|
-|Class 3|[notes 3](notes3.md)|
+|Class 3|[Lists, Boxes, Switch Statements, Loops](201-class-03.md)|
 |Class 4|[notes 4](notes4.md)|
 |Class 5|[notes 5](notes5.md)|
 |Class 6|[notes 6](notes6.md)|
