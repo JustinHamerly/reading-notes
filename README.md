@@ -8,14 +8,14 @@ This is my page for all of my CodeFellows notes.
 
 |CLASS #|LINK|
 |:---|:---|
-|Class 1|[Learning Markdown](learningmarkdownnotes.md)|
-|Class 2|[The Coder's Computer](thecoderscomputer.md)|
-|Class 3|[Revisions and the Cloud](github.md)|
-|Class 4|[Structure Web Pages with HTML](structurehtml.md)|
-|Class 5|[Design Web Pages with CSS](designcss.md)|
-|Class 6|[Activate Web Pages with Javascript](activatejava.md)|
-|Class 7|[Programming with Javascript](programmingjava.md)|
-|Class 8|[Operators and Loops](operatorsloops.md)|
+|Class 1|[Learning Markdown](./102notes/learningmarkdownnotes.md)|
+|Class 2|[The Coder's Computer](./102notes/thecoderscomputer.md)|
+|Class 3|[Revisions and the Cloud](./102notes/github.md)|
+|Class 4|[Structure Web Pages with HTML](./102notes/structurehtml.md)|
+|Class 5|[Design Web Pages with CSS](./102notes/designcss.md)|
+|Class 6|[Activate Web Pages with Javascript](./102notes/activatejava.md)|
+|Class 7|[Programming with Javascript](./102notes/programmingjava.md)|
+|Class 8|[Operators and Loops](./102notes/operatorsloops.md)|
 
 ---
 
@@ -23,11 +23,11 @@ This is my page for all of my CodeFellows notes.
 
 |CLASS #|LINK|
 |:---|:---|
-|Class 1|[HTML/JS General Notes](201-class-01.md)|
-|Class 2|[Text, CSS, basic JavaScript, Decisions & Loops](201-class-02.md)|
-|Class 3|[Lists, Boxes, Switch Statements, Loops](201-class-03.md)|
-|Class 4|[HTML Links, JS Functions, and Intro to CSS Layout](201-class-04.md)|
-|Class 5|[HTML Images; CSS Color & Text](201-class-05.md)|
+|Class 1|[HTML/JS General Notes](./201notes/201-class-01.md)|
+|Class 2|[Text, CSS, basic JavaScript, Decisions & Loops](./201notes/201-class-02.md)|
+|Class 3|[Lists, Boxes, Switch Statements, Loops](./201notes/201-class-03.md)|
+|Class 4|[HTML Links, JS Functions, and Intro to CSS Layout](./201notes/201-class-04.md)|
+|Class 5|[HTML Images; CSS Color & Text](./201notes/201-class-05.md)|
 |Class 6|[notes 6](notes6.md)|
 |Class 7|[notes 7](notes7.md)|
 |Class 8|[notes 8](notes8.md)|
