@@ -28,7 +28,7 @@ This is my page for all of my CodeFellows notes.
 |Class 3|[Lists, Boxes, Switch Statements, Loops](./201notes/201-class-03.md)|
 |Class 4|[HTML Links, JS Functions, and Intro to CSS Layout](./201notes/201-class-04.md)|
 |Class 5|[HTML Images; CSS Color & Text](./201notes/201-class-05.md)|
-|Class 6|[notes 6](notes6.md)|
+|Class 6|[Problem Domain, Objects, and the DOM](./201notes/201-class-05.md)|
 |Class 7|[notes 7](notes7.md)|
 |Class 8|[notes 8](notes8.md)|
 |Class 9|[notes 9](notes9.md)|
