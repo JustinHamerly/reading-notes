@@ -29,7 +29,7 @@ This is my page for all of my CodeFellows notes.
 |Class 4|[HTML Links, JS Functions, and Intro to CSS Layout](./201notes/201-class-04.md)|
 |Class 5|[HTML Images; CSS Color & Text](./201notes/201-class-05.md)|
 |Class 6|[Problem Domain, Objects, and the DOM](./201notes/201-class-06.md)|
-|Class 7|[notes 7](notes7.md)|
+|Class 7|[Object-Oriented Programming, HTML Tables](./201notes/201-class-07.md)|
 |Class 8|[notes 8](notes8.md)|
 |Class 9|[notes 9](notes9.md)|
 |Class 10|[notes 10](notes10.md)|
