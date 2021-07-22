@@ -31,7 +31,7 @@ This is my page for all of my CodeFellows notes.
 |Class 6|[Problem Domain, Objects, and the DOM](./201notes/201-class-06.md)|
 |Class 7|[Object-Oriented Programming, HTML Tables](./201notes/201-class-07.md)|
 |Class 8|[CSS Layout](./201notes/201-class-08.md)|
-|Class 9|[notes 9](notes9.md)|
+|Class 9|[Forms and JS Events](./201notes/201-class-09.md)|
 |Class 10|[notes 10](notes10.md)|
 |Class 11|[notes 11](notes11.md)|
 |Class 12|[notes 12](notes12.md)|
