@@ -1,6 +1,10 @@
 # Reading Notes for CodeFellows
 
 This is my page for all of my CodeFellows notes.
+>Notes are sourced from:
+>
+>- Javascript & JQuery - Jon Duckett
+>- HTML & CSS - Jon Duckett
 
 ---
 
