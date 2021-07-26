@@ -37,7 +37,7 @@ This is my page for all of my CodeFellows notes.
 |Class 8|[CSS Layout](./201notes/201-class-08.md)|
 |Class 9|[Forms and JS Events](./201notes/201-class-09.md)|
 |Class 10|[Debugging](./201notes/201-class-10.md)|
-|Class 11|[notes 11](notes11.md)|
+|Class 11|[Audio, Video, Images](./201notes/201-class-11.md)|
 |Class 12|[notes 12](notes12.md)|
 |Class 13|[notes 13](notes13.md)|
 |Class 14|[notes 14](notes14.md)|
