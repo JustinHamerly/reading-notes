@@ -6,6 +6,7 @@ This is my page for all of my CodeFellows notes.
 >- Javascript & JQuery - Jon Duckett
 >- HTML & CSS - Jon Duckett
 >- MDN Web Docs - mozilla.org
+>- html5docctor.com
 
 ---
 
@@ -40,7 +41,7 @@ This is my page for all of my CodeFellows notes.
 |Class 10|[Debugging](./201notes/201-class-10.md)|
 |Class 11|[Audio, Video, Images](./201notes/201-class-11.md)|
 |Class 12|[Chart.js, Canvas](./201notes/201-class-12.md)|
-|Class 13|[notes 13](notes13.md)|
+|Class 13|[Local Storage](./201notes/201-class-13.md)|
 |Class 14|[notes 14](notes14.md)|
 |Class 15|[notes 15](notes15.md)|
 
