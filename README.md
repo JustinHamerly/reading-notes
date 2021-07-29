@@ -7,6 +7,7 @@ This is my page for all of my CodeFellows notes.
 >- HTML & CSS - Jon Duckett
 >- MDN Web Docs - mozilla.org
 >- html5docctor.com
+>- NYT - What Google Learned From Its Quest to Build the Perfect Team
 
 ---
 
@@ -42,7 +43,7 @@ This is my page for all of my CodeFellows notes.
 |Class 11|[Audio, Video, Images](./201notes/201-class-11.md)|
 |Class 12|[Chart.js, Canvas](./201notes/201-class-12.md)|
 |Class 13|[Local Storage](./201notes/201-class-13.md)|
-|Class 14|[notes 14](notes14.md)|
+|Class 14|[CSS Transforms, Transitions, and Animations](./201notes/201-class-14.md)|
 |Class 15|[notes 15](notes15.md)|
 
 ---
