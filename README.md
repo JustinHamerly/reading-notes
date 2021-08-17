@@ -44,9 +44,16 @@ This is my page for all of my CodeFellows notes.
 |Class 12|[Chart.js, Canvas](./201notes/201-class-12.md)|
 |Class 13|[Local Storage](./201notes/201-class-13.md)|
 |Class 14|[CSS Transforms, Transitions, and Animations](./201notes/201-class-14.md)|
-|Class 15|[notes 15](notes15.md)|
 
 ---
+
+## Code 301 Reading Notes
+
+|CLASS #|LINK|
+|:---|:---|
+|Class 1|[---](---)|
+|Class 2|[State and Props](./301notes/301-class-02.md)|
+
 
 ## About Me
 
