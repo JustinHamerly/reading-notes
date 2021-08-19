@@ -1,0 +1,26 @@
+# Class 3 - Passing Functions as Props
+
+[Home](https://justinhamerly.github.io/reading-notes/)
+
+---
+
+## **React Docs - Forms**
+
+source: [react docs](https://reactjs.org/docs/forms.html)
+
+- *What is a ‘Controlled Component’?*
+- an element that is controlled by React.. aka its state and values
+- *Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.*
+- not sure, but I think right away, so that other listeners and parts of the page can access the information too.
+- *How do we target what the user is entering if we have an event handler on an input field?*
+- I think we can use onChange to link to an event handler, and in that event handler we can change properties of the input field.
+
+## **Ternary Operator**
+
+source: [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+
+- *Why would we use a ternary operator?*
+- it allows us to check conditions without setting up an if statement.  we can now check conditions in one line.
+- *Rewrite the following statement using a ternary statement:*
+- `x===y ? console.log(true) : console.log(false) ;`
+
