@@ -55,6 +55,7 @@ This is my page for all of my CodeFellows notes.
 |Class 2|[State and Props](./301notes/301-class-02.md)|
 |Class 3|[Passing Functions as Props](./301notes/301-class-03.md)
 |Class 4|[React and Forms](./301notes/301-class-04.md)
+|Class 5|[React and State](./301notes/301-class-05.md)
 
 ## About Me
 
