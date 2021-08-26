@@ -53,12 +53,13 @@ This is my page for all of my CodeFellows notes.
 |:---|:---|
 |Class 1|[---](./301notes/301-class-01.md)|
 |Class 2|[State and Props](./301notes/301-class-02.md)|
-|Class 3|[Passing Functions as Props](./301notes/301-class-03.md)
-|Class 4|[React and Forms](./301notes/301-class-04.md)
-|Class 5|[React and State](./301notes/301-class-05.md)
-|Class 6|[Node.js](./301notes/301-class-06.md)
+|Class 3|[Passing Functions as Props](./301notes/301-class-03.md)|
+|Class 4|[React and Forms](./301notes/301-class-04.md)|
+|Class 5|[React and State](./301notes/301-class-05.md)|
+|Class 6|[Node.js](./301notes/301-class-06.md)|
 |Class 7|[---](./301notes/301-class-07.md)|
-|Class 7|[APIs](./301notes/301-class-08.md)|
+|Class 8|[APIs](./301notes/301-class-08.md)|
+|Class 9|[Functional Programming](./301notes/301-class-09.md)|
 
 ## About Me
 
