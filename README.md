@@ -60,6 +60,7 @@ This is my page for all of my CodeFellows notes.
 |Class 7|[---](./301notes/301-class-07.md)|
 |Class 8|[APIs](./301notes/301-class-08.md)|
 |Class 9|[Functional Programming](./301notes/301-class-09.md)|
+|Class 10|[In Memory Storage](./301notes/301-class-10.md)|
 
 ## About Me
 
