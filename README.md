@@ -62,6 +62,7 @@ This is my page for all of my CodeFellows notes.
 |Class 9|[Functional Programming](./301notes/301-class-09.md)|
 |Class 10|[In Memory Storage](./301notes/301-class-10.md)|
 |Class 11|[SQL and NoSQL](./301notes/301-class-11.md)|
+|Class 12|[CRUD](./301notes/301-class12.md)|
 
 ## About Me
 
