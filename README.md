@@ -66,6 +66,11 @@ This is my page for all of my CodeFellows notes.
 |Class 13|[Diversity and Inclusion](./301notes/301-class-13.md)|
 |Class 14|[Authentication](./301notes/301-class-14a.md)|
 
+## Code 401 Reading Notes
+
+|CLASS #|LINK|
+|:---|:---|
+|Class 0|[Prework Reading](./401notes/401-class-00.md)|
 
 ## About Me
 
