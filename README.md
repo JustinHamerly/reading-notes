@@ -74,6 +74,7 @@ This is my page for all of my CodeFellows notes.
 |Class 1|[Node Ecosystem, TDD, CI/CD](./401notes/401-class-01.md)|
 |Class 2|[Express](./401notes/401-class-02.md)|
 |Class 3|[Express REST API](./401notes/401-class-03.md)|
+|Class 4|[Data Modeling](./401notes/401-class-04.md)|
 
 ## About Me
 
