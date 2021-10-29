@@ -78,6 +78,8 @@ This is my page for all of my CodeFellows notes.
 |Class 6|[Authentication](./401notes/401-class-06.md)
 |Class 7|[Bearer Authorization](./401notes/401-class-07.md)
 |Class 8|[Access Control (ACL)](./401notes/401-class-08.md)
+|Class 9|[Authorization/Authentication](./401notes/401-class-09.md)
+
 
 ## About Me
 
