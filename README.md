@@ -80,9 +80,10 @@ This is my page for all of my CodeFellows notes.
 |Class 8|[Access Control (ACL)](./401notes/401-class-08.md)
 |Class 9|[Authorization/Authentication](./401notes/401-class-09.md)
 |Class 11|[Event Driven Applications](./401notes/401-class-11.md)
-|Class 12|[Socket.io](./401notes/401-class-12.md)
-|Class 13|[Notes from Cascadia](./401notes/401-class-13.md)
-|Class 14|[Notes from Cascadia](./401notes/401-class-14.md)
+|Class 12|[Socket.io](./401notes/401-class-12.md)  
+|Class 13|[Notes from Cascadia](./401notes/401-class-13.md)  
+|Class 14|[Notes from Cascadia](./401notes/401-class-14.md)  
+|Class 17|[AWS: S3 and Lambda](./401notes/401-class-17.md)  
 
 ## About Me
 
