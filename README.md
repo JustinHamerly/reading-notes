@@ -85,6 +85,7 @@ This is my page for all of my CodeFellows notes.
 |Class 14|[Notes from Cascadia](./401notes/401-class-14.md)  
 |Class 17|[AWS: S3 and Lambda](./401notes/401-class-17.md)  
 |Class 19|[AWS Events](./401notes/401-class-19.md)
+|Class 26|[Component Based UI](./401notes/401-class-26.md)
 
 ## About Me
 
