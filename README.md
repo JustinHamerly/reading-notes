@@ -88,6 +88,7 @@ This is my page for all of my CodeFellows notes.
 |Class 26|[Component Based UI](./401notes/401-class-26.md)
 |Class 27|[useState() Hook](./401notes/401-class-27.md)
 |Class 28|[Component Lifecycle / useEffect() Hook](./401notes/401-class-28.md)
+|Class 29|[Advanced State with Reducers](./401notes/401-class-29.md)
 
 ## About Me
 
