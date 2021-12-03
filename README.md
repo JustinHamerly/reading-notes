@@ -90,6 +90,7 @@ This is my page for all of my CodeFellows notes.
 |Class 28|[Component Lifecycle / useEffect() Hook](./401notes/401-class-28.md)
 |Class 29|[Advanced State with Reducers](./401notes/401-class-29.md)
 |Class 31|[Context API](./401notes/401-class-31.md)
+|Class 32|[Context API - Behaviors](./401-class-32.md)
 
 ## About Me
 
