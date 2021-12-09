@@ -93,6 +93,7 @@ This is my page for all of my CodeFellows notes.
 |Class 32|[Context API - Behaviors](./401notes/401-class-32.md)
 |Class 33|[`<Login />` and `<Auth />`](./401notes/401-class-33.md)
 |Class 34|[API Integration](./401notes/401-class-34.md)
+|Class 36|[Application State with Redux](./401notes/401-class-36.md)
 
 ## About Me
 
