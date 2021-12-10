@@ -94,6 +94,7 @@ This is my page for all of my CodeFellows notes.
 |Class 33|[`<Login />` and `<Auth />`](./401notes/401-class-33.md)
 |Class 34|[API Integration](./401notes/401-class-34.md)
 |Class 36|[Application State with Redux](./401notes/401-class-36.md)
+|Class 37|[Redux - Combined Reducers](./401notes/401-class-37.md)
 
 ## About Me
 
