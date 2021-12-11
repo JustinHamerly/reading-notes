@@ -95,6 +95,7 @@ This is my page for all of my CodeFellows notes.
 |Class 34|[API Integration](./401notes/401-class-34.md)
 |Class 36|[Application State with Redux](./401notes/401-class-36.md)
 |Class 37|[Redux - Combined Reducers](./401notes/401-class-37.md)
+|Class 38|[Redux - Asynchronous Actions](./401notes/401-class-38.md)
 
 ## About Me
 
