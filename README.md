@@ -99,6 +99,7 @@ This is my page for all of my CodeFellows notes.
 |Class 39|[Redux - Additional Topics](./401notes/401-class-39.md)
 |Class 41|[React Native](./401notes/401-class-41.md)
 |Class 42|[Ethics in Tech](./401notes/401-class-42.md)
+|Class 43|[Open-Source Software Contribution](./401notes/401-class-43.md)
 
 ## About Me
 
