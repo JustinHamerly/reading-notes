@@ -98,6 +98,7 @@ This is my page for all of my CodeFellows notes.
 |Class 38|[Redux - Asynchronous Actions](./401notes/401-class-38.md)
 |Class 39|[Redux - Additional Topics](./401notes/401-class-39.md)
 |Class 41|[React Native](./401notes/401-class-41.md)
+|Class 42|[Ethics in Tech](./401notes/401-class-42.md)
 
 ## About Me
 
